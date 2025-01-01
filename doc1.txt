@@ -12,3 +12,6 @@ Thisis fifthe line code from linux machine...................
 
 
 Thissi six line from linux ..................
+
+
+Thisis seven line from linux
